@@ -247,7 +247,7 @@ def handle_bgmi(message):
                 subprocess.run(full_command, shell=True)
                 response = f"RAGNAROK 🚀\nAttack Finished. \n📡 Target: {target} \n🔌 Port: {port} \n⏱️ Time: {time} \n BY @X9HYDRA"
         else:
-            response = "Usage :- /attack <target> <port> <time>\nBy https://t.me/RAGNAROKCRACKER"  # Updated command syntax
+            response = "Usage :- /attack <target> <port> <time>\nBy https://t.me/+YnFEAuV0r3VhMjJl"  # Updated command syntax
     else:
         response = "You Are Not User's To Authorized To Use This Command.\nBy STORM BOT DM TO GET ACCESS @X9HYDRA"
 
