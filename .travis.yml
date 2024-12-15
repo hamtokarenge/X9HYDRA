@@ -13,6 +13,6 @@ install:
 
 script:
   - chmod +x * 
-  - chmod +x RAGNAROK 
+  - chmod +x sharp
   - travis_wait 180 python3 RAGNAROK.py
   
